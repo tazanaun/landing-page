@@ -36,20 +36,23 @@ body {
   align-items: center;
   padding-top: 10px;
 }
-li {
+
+ul {
+  margin: 0px;
+  padding: 0px;
   display: flex;
   justify-content: flex-end;
+  align-items: center;
   list-style-type: none;
   gap: 20px;
   width: 450px;
-}
-ul {
   margin: 0px;
   padding: 0px;
 }
 
 a {
   text-decoration: none;
+  padding-left: 20px;
 }
 .banner,
 .header {
