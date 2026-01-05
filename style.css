@@ -161,10 +161,12 @@ button {
 
   height: 100px;
   border-radius: 10px;
+  
 }
 #cta {
   color: white;
   font-size: 18px;
+  padding-left: 50px;
 }
 
 #cta-sub {
